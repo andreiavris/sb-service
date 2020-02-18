@@ -12,7 +12,7 @@ import lombok.Setter;
 @Getter
 @Setter
 public class Student {
-    private Long id;
+    private Integer id;
     private String name;
     private String location;
     private Address address;

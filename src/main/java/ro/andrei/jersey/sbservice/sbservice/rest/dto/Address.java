@@ -12,6 +12,6 @@ import lombok.Setter;
 @Getter
 @Setter
 public class Address {
-    private Long id;
+    private Integer id;
     private String address;
 }
